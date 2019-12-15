@@ -24,7 +24,7 @@ OR
 
 For Mac and Linux, environment variables can be set by opening a terminal window and typing the following three commands - replace all the characters after the `=` with values from your Twilio account:
 
-```
+```sh
     export TWILIO_ACCOUNT_SID=ACXXXXXXXXX
     export TWILIO_AUTH_TOKEN=XXXXXXXXX
     export TWILIO_PHONE_NUMBER=+16518675309
@@ -32,7 +32,7 @@ For Mac and Linux, environment variables can be set by opening a terminal window
 
 On Windows, the easiest way to set permanent environment variables (as of Windows 8) is using the `setx` command. Note that there is no `=`, just the key and value separated by a space:
 
-```
+```powershell
     setx TWILIO_ACCOUNT_SID ACXXXXXXXXX
     setx TWILIO_AUTH_TOKEN XXXXXXXXX
     setx TWILIO_PHONE_NUMBER +16518675309
