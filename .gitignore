@@ -1,4 +1,4 @@
 flask-app/main-settings.py
 .vscode
 .idea
-__pycache__
+flask-app/__pycache__
