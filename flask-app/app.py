@@ -1,5 +1,6 @@
 import os
-from settings import TWILIO_SETTINGS
+#from main_settings import TWILIO_SETTINGS #used for my personal testing 
+from settings import TWILIO_SETTINGS # Ensure your input correct credentials
 
 from flask import Flask, Response, request, render_template
 from twilio.twiml.voice_response import VoiceResponse
