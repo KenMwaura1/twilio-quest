@@ -1,5 +1,9 @@
 # Twilio Quest
 
+![GitHub](https://img.shields.io/github/license/KenMwaura1/twilio-quest?logo=Zoo&style=for-the-badge)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flask?style=for-the-badge)
+![Conda](https://img.shields.io/conda/pn/conda-forge/flask?style=for-the-badge)
+
 This repo contains my solutions to the Twilio quest challenges. It will be updated as I continue playing.
 
 Forked from the main [Starter-Python repo](https://github.com/twilio/starter-python)
