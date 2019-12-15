@@ -38,7 +38,7 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 
 1. From there we recommend creating a [virtualenv](https://docs.python.org/3/library/venv.html) and activating it to avoid installing dependencies globaly on your computer.
 
-   `virtualenv -p python3 env`
+   `python3 -m venv env`
    `source env/bin/activate`
 
 1. Install dependencies:
@@ -51,3 +51,9 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 1. Open the app in your [browser](http://localhost:5000/)
 
 1. Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide. The web UI should look something like this:
+
+![python guild](https://raw.githubusercontent.com/twilio/starter-python/master/static/python_shield256.png)
+
+## Begin Questing!
+
+This is but your first step into a larger world. [Return to TwilioQuest](http://quest.twilio.com) to continue your adventure. Huzzah!
