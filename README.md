@@ -54,7 +54,7 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 
 1. Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide. The web UI should look something like this:
 
-![python guild](https://raw.githubusercontent.com/twilio/starter-python/master/static/python_shield256.png)
+![python guild](https://github.com/KenMwaura1/twilio-quest/blob/master/flask-app/static/twilio-app.png)
 
 ## Begin Questing!
 
