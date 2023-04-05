@@ -1,6 +1,7 @@
 def hail_friend(x):
-    t = 'Hail ,'
-    print(t, x, '!')
+    t = 'Hail,'
+    print(f'{t} {x}!')
+    # print("Hail, friend!")
 
 
 hail_friend('Jonathan Joestar')
